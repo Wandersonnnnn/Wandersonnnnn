@@ -53,8 +53,15 @@
 ## 🎖️Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/earner/earned/badge/f1e02035-0006-4ed0-97e4-35ced1adf19e)
-
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/f1e02035-0006-4ed0-97e4-35ced1adf19e)
+[![AWS Partner: Cloud Economics Essentials - Training Badge](https://images.credly.com/size/80x80/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob)](https://www.credly.com/badges/ecf2c184-714f-42be-b802-2d21d19f27af)
+[![AWS Partner: Technical Accredited - Training Badge](https://images.credly.com/size/80x80/images/8f006312-3154-45bf-a845-4a043641e83c/blob)](https://www.credly.com/badges/13592f4f-f336-4af8-9a16-3b746c6710aa)
+[![AWS Partner: Sales Accreditation - Training Badge](https://images.credly.com/size/80x80/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob)](https://www.credly.com/badges/6b13057e-70e9-4895-bb33-02f10f8898e1)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/ffef4330-50f0-468c-99f4-59770c5a975c)
+[![Remote Work Professional Certification - RWPC™ !](https://images.credly.com/size/80x80/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png)](https://www.credly.com/badges/4f3b1232-3d03-4b5c-b29d-1fbe8cbb8c55)
+[![Cyber Security Foundation Professional Certificate - CSFPC™ !](https://images.credly.com/size/80x80/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png)](https://www.credly.com/badges/367c6abc-b3b7-4d8a-b75b-9fb28ac4bb56)
+[![Lifelong Learning](https://images.credly.com/size/80x80/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](https://www.credly.com/badges/f613fd54-75c2-4331-8a56-13201713ad0e)
+[![Scrum Foundation Professional Certification - SFPC™ !](https://images.credly.com/size/80x80/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/76c6c432-b450-4724-bc82-9ce8d162e295)
 <!--END_SECTION:badges-->
 
 <p>
