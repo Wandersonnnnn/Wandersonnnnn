@@ -6,8 +6,6 @@
 
 ### soldier ready for combat 🪖🫡
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wandersonnnnn&label=Profile views&color=0e75b6&style=flat" alt="Wandersonnnnn" /> </p>
-
 - 🔭 Currently working at **Open Finance Brazil**
 
 - 🌱 Currently learning **Microsoft Azure, AWS, Kubernetes, C# with .Net Core, Terraform, GitHub, and Copilot**
