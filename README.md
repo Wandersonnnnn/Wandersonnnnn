@@ -62,6 +62,9 @@
 [![Cyber Security Foundation Professional Certificate - CSFPC™ !](https://images.credly.com/size/80x80/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png)](https://www.credly.com/badges/367c6abc-b3b7-4d8a-b75b-9fb28ac4bb56)
 [![Lifelong Learning](https://images.credly.com/size/80x80/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](https://www.credly.com/badges/f613fd54-75c2-4331-8a56-13201713ad0e)
 [![Scrum Foundation Professional Certification - SFPC™ !](https://images.credly.com/size/80x80/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/76c6c432-b450-4724-bc82-9ce8d162e295)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/80x80/images/eb5e8f44-5e90-4ab0-8a89-af323bc3b162/converted20260602-7-7bvjne.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/53dafa5e-9600-42f7-8aeb-81a3c33851f2/converted20260602-31-nurpdv.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/80x80/images/b0aec017-45ac-4b3d-80b7-12e0c710a3ca/converted20260602-30-cxz69n.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
 <!--END_SECTION:badges-->
 
 <p>
