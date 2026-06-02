@@ -10,10 +10,12 @@ jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
           COMMIT_MESSAGE: "Add and update my latest badges"
           CREDLY_USER: wanderson-silva-santos
-          BADGE_SIZE: 96
+          BADGE_SIZE: 0
