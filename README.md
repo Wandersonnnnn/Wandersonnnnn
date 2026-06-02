@@ -4,7 +4,7 @@
 
 # Hi👋, I'm Wanderson Silva Santos
 
-### soldier ready for combat 🪖🫡
+### Soldier ready for combat 🪖🫡
 
 - 🔭 Currently working at **Open Finance Brazil**
 
