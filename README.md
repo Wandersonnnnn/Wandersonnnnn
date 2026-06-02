@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Microsoft Azure, AWS, Terraform, GitHub, C4 Model, Architecture, API Gateway**
 
-- 📫 How to contact me: **wandersonnnnn@hotmail.com**
-
 - ⚡ Fun fact: My nickname is Soldier, I'm a former sergeant in the Brazilian Army 🪖🫡
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/wanderson-silva-santos-b073821a2/](https://www.linkedin.com/in/wanderson-silva-santos-b073821a2/)**
