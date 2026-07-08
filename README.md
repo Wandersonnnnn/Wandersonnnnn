@@ -65,6 +65,7 @@
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/80x80/images/eb5e8f44-5e90-4ab0-8a89-af323bc3b162/converted20260602-7-7bvjne.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/53dafa5e-9600-42f7-8aeb-81a3c33851f2/converted20260602-31-nurpdv.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/80x80/images/b0aec017-45ac-4b3d-80b7-12e0c710a3ca/converted20260602-30-cxz69n.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
+[![Certified ScrumMaster®](https://images.credly.com/size/80x80/images/8d1a4eb3-c058-40d0-bf7d-fbdfc7369912/badge-7227_cached_image_20260708-31-b9azcv.png)](https://www.credly.com/users/wanderson-silva-santos/badges)
 <!--END_SECTION:badges-->
 
 <p>
